@@ -1,10 +1,11 @@
 {
   "expo": {
-    "name": "RNCourse",
+    "name": "Nonso's Goal Tracker App",
     "slug": "RNCourse",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "backgroundColor": "#282C34",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
